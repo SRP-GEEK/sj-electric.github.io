@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    color: #1f2d2b;
+    background: #ffffff;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+}
+
+.site-header {
+    background: #0f3d3e;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.site-header h1 {
+    margin-bottom: 5px;
+}
+
+.tagline {
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+.nav {
+    margin-top: 10px;
+}
+
+.nav a {
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.hero
+
